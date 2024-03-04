@@ -1,0 +1,11 @@
+{
+  "name": "fentoyuan",
+  "version": "1.0.0",
+  "description": "金额从分转换成元",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ntyang",
+  "license": "ISC"
+}

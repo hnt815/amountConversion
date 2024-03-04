@@ -1,0 +1,28 @@
+{
+  "name": "amountconversion",
+  "version": "1.0.0",
+  "description": "金额可以在元和分之间互相转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnt815/amountConversion.git"
+  },
+  "keywords": [
+    "amount",
+    "yuan",
+    "fen"
+  ],
+  "author": "ntyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnt815/amountConversion/issues"
+  },
+  "homepage": "https://github.com/hnt815/amountConversion#readme",
+  "dependencies": {
+    "fentoyuan": "^1.0.0",
+    "yuantofen": "^1.0.0"
+  }
+}
